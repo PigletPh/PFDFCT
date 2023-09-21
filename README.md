@@ -24,9 +24,11 @@
 
 ![image](https://github.com/PigletPh/PFDFCT/blob/main/Cover_Image/Comparison_in_urban100.jpg)
 
-<p> Moreover, the parameters and FLOPs decrease by 20.80% and 26.39% under scale of 4, respectively. Under ×2, ×3 and ×4 up-sampling, the model parameters are only 459K, 466K and 476K, respectively. Moreover, the FLOPs are as low as 31.8G, 55.3G and 122.5G, much lower than most current SOTA methods.</p>
 
-<div align=center><img src="https://github.com/PigletPh/PFDFCT/blob/main/Cover_Image/Comparison_with_SOTA.jpg"></div>
+<p> Moreover, the parameters and FLOPs decrease by 20.80% and 26.39% under scale of 4, respectively. Under ×2, ×3 and ×4 up-sampling, the model parameters are only 459K, 466K and 476K, respectively. Moreover, the FLOPs are as low as 31.8G, 55.3G and 122.5G, much lower than most current SOTA methods. </p>
+
+![image](https://github.com/PigletPh/PFDFCT/blob/main/Cover_Image/Comparison_with_SOTA.jpg)
+
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
 
