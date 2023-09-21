@@ -20,9 +20,12 @@
 
 ## 1. Comparison with SOTA methods
 
-<p> The proposed PFDFCT has great advantages in computational cost and image super-resolution restoration ability. The ability to avoid mis-generated strips and blur of PFDFCT is comparable to SOTA ELAN-light in 2022. However, the parameters and FLOPs decrease by 20.80% and 26.39% under scale of 4, respectively. Under ×2, ×3 and ×4 up-sampling, the model parameters are only 459K, 466K and 476K, respectively. Moreover, the FLOPs are as low as 31.8G, 55.3G and 122.5G, which are much lower than most current SOTA methods.</p>
+<p> The proposed PFDFCT has great advantages in computational cost and image super-resolution restoration ability. The ability to avoid mis-generated strips and blur of PFDFCT is comparable to SOTA ELAN-light in 2022. 
 
 ![image](https://github.com/PigletPh/PFDFCT/blob/main/Cover_Image/Comparison_in_urban100.jpg)
+
+<p> Moreover, the parameters and FLOPs decrease by 20.80% and 26.39% under scale of 4, respectively. Under ×2, ×3 and ×4 up-sampling, the model parameters are only 459K, 466K and 476K, respectively. Moreover, the FLOPs are as low as 31.8G, 55.3G and 122.5G, much lower than most current SOTA methods.</p>
+
 <div align=center><img src="https://github.com/PigletPh/PFDFCT/blob/main/Cover_Image/Comparison_with_SOTA.jpg"></div>
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
@@ -31,7 +34,7 @@
 
 
 ## Notification
-<b>The detailed description and independences will be gradually released. If you have any questions or requirements, you can email(email: wgq001@csu.edu.cn) me to get help before all files are released.</p>
+<b>The detailed description and independence will be gradually released. If you have any questions or requirements, you can email(email: wgq001@csu.edu.cn) me to get help before all files are released.</p>
 
 
 
