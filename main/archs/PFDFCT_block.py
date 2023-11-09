@@ -164,7 +164,7 @@ class FEB(nn.Module):
         input = self.swinT(LCF)   #通过Swin Transformer Layer 深度为2
         input = input + shortcut #相加之后的结果
         out_fused = self.esa(self.c1_r(input)) #融合模块
-        out_fused = self.c1_r(out_fused)  # 融合模块
+        # out_fused = self.c1_r(out_fused)  # 融合模块
         return out_fused
 
 
